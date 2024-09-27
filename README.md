@@ -1,3 +1,3 @@
 # React +/-
 
-This template provides a minimal 
+The first homework assignment on web programming
